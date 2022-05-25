@@ -1,2 +1,5 @@
-# dio-desafio-github
-Desafio de projeto sobre GIT/GITHUB
+# Desafios da DIO
+
+1º Desafio de projeto sobre Git/Github
+
+Aguinaldo Marcenes
